@@ -13,7 +13,7 @@ public class Forum : MonoBehaviour {
 		
 	}
 
-	public string url = "http://images.earthcam.com/ec_metros/ourcams/fridays.jpg";
+	string url = "https://forum.unity.com/threads/unity3d-plugin-for-embedding-webpages-on-windows-is-ready.83071/";
 	IEnumerator Start()
 	{
 		WWW www = new WWW(url);
