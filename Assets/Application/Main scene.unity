@@ -443,6 +443,36 @@ Prefab:
       propertyPath: m_LocalPosition.y
       value: 96
       objectReference: {fileID: 0}
+    - target: {fileID: 114297468409738110, guid: d18cecab429d32742a430234bc68cd4b,
+        type: 2}
+      propertyPath: m_Text
+      value: E-volunteer
+      objectReference: {fileID: 0}
+    - target: {fileID: 114502801109789050, guid: d18cecab429d32742a430234bc68cd4b,
+        type: 2}
+      propertyPath: m_FontData.m_FontStyle
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114483296239524928, guid: d18cecab429d32742a430234bc68cd4b,
+        type: 2}
+      propertyPath: m_FontData.m_FontStyle
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114526580967911894, guid: d18cecab429d32742a430234bc68cd4b,
+        type: 2}
+      propertyPath: m_FontData.m_FontStyle
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114847558564097200, guid: d18cecab429d32742a430234bc68cd4b,
+        type: 2}
+      propertyPath: m_FontData.m_FontStyle
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114502801109789050, guid: d18cecab429d32742a430234bc68cd4b,
+        type: 2}
+      propertyPath: m_Text
+      value: "Warto pomaga\u0107"
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d18cecab429d32742a430234bc68cd4b, type: 2}
   m_IsPrefabParent: 0
