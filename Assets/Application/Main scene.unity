@@ -266,6 +266,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 114432852484627018, guid: 8d5f930f87e277f49ab0ac02c6fbd84a,
+        type: 2}
+      propertyPath: m_Text
+      value: Wesprzyj nas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8d5f930f87e277f49ab0ac02c6fbd84a, type: 2}
   m_IsPrefabParent: 0
