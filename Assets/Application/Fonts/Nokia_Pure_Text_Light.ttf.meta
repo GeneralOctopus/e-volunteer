@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7517b440850c28649864502038cb6470
+timeCreated: 1509123058
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nokia Pure Text Light
+  fontNames:
+  - Nokia Pure Text Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
