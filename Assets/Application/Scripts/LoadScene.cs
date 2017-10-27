@@ -3,6 +3,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class LoadScene : MonoBehaviour {
+    public string sceneName;
 
 	// Use this for initialization
 	void Start () {
@@ -14,7 +15,7 @@ public class LoadScene : MonoBehaviour {
 		
 	}
 
-    LoadScene(string sceneName) {
+    LoadScene() {
         SceneManager.LoadScene(sceneName);
     }
 }
