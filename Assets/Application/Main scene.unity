@@ -1180,7 +1180,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: E-volunteer
+  m_Text: e-Wolontariusz
 --- !u!222 &1690530857
 CanvasRenderer:
   m_ObjectHideFlags: 0

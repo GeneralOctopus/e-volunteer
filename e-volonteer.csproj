@@ -225,6 +225,13 @@
     <Compile Include="Assets\Application\Scripts\Forum.cs" />
     <Compile Include="Assets\Application\Scripts\LoadScene.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Application\Fonts\Montserrat\OFL.txt" />
+    <None Include="Assets\Application\Fonts\Open_Sans\LICENSE.txt" />
+    <None Include="Assets\Application\Fonts\Roboto\LICENSE.txt" />
+    <None Include="Assets\Application\Fonts\Roboto_Slab\LICENSE.txt" />
+    <None Include="Assets\Application\Fonts\Source_Sans_Pro\OFL.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
 </Project>
