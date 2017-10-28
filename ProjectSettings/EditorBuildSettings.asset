@@ -4,4 +4,25 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Application/Main scene.unity
+    guid: df340e32256d5cc4f802fdb69ae21b3b
+  - enabled: 1
+    path: Assets/Application/Login.unity
+    guid: 6d71b195a9c484d4f85bb5f896b9a79b
+  - enabled: 1
+    path: Assets/Application/Kontakt.unity
+    guid: 3d6572e51fb3e4e4f8358590411d4552
+  - enabled: 1
+    path: Assets/Application/Im pomogles.unity
+    guid: 1932867631e2ea04282e24bfb4b2b423
+  - enabled: 1
+    path: Assets/Application/Partnerzy.unity
+    guid: ddcaba1d994d8df409a4808d9b8b119e
+  - enabled: 1
+    path: Assets/Application/Tablica.unity
+    guid: bc985a4b33bd25a4a81c2406e8c2398e
+  - enabled: 1
+    path: Assets/Application/Wspieraj nas.unity
+    guid: f9e7a2374dbdf6b449c9c325ff7990f8
