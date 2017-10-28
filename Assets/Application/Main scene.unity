@@ -190,6 +190,23 @@ CanvasRenderer:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 72865491}
+--- !u!1 &1076809262 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1471771609528128, guid: d18cecab429d32742a430234bc68cd4b,
+    type: 2}
+  m_PrefabInternal: {fileID: 1449571303}
+--- !u!114 &1076809264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1076809262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65412e224e8466a4a8cb676f37f15342, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: Im pomogles
 --- !u!1 &1377200129
 GameObject:
   m_ObjectHideFlags: 0
@@ -313,6 +330,11 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 114865655219684830, guid: d18cecab429d32742a430234bc68cd4b,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 224497269539842752, guid: d18cecab429d32742a430234bc68cd4b,
         type: 2}
       propertyPath: m_LocalPosition.x
@@ -472,6 +494,31 @@ Prefab:
         type: 2}
       propertyPath: m_Text
       value: "Warto pomaga\u0107"
+      objectReference: {fileID: 0}
+    - target: {fileID: 114865655219684830, guid: d18cecab429d32742a430234bc68cd4b,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114865655219684830, guid: d18cecab429d32742a430234bc68cd4b,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114865655219684830, guid: d18cecab429d32742a430234bc68cd4b,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1076809264}
+    - target: {fileID: 114865655219684830, guid: d18cecab429d32742a430234bc68cd4b,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Load_Scene
+      objectReference: {fileID: 0}
+    - target: {fileID: 114865655219684830, guid: d18cecab429d32742a430234bc68cd4b,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d18cecab429d32742a430234bc68cd4b, type: 2}
