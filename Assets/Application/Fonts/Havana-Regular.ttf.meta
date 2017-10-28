@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f63cbd4ae87a7f748bd0c241877eeb8e
+timeCreated: 1509187267
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Havana
+  fontNames:
+  - Havana
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
